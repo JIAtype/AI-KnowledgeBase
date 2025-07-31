@@ -69,3 +69,33 @@ WORK EXPERIENCE
 • As an IT professional, such as software developer, business analyst, or as a domain expert, working in an area where Intelligent Systems and Artificial Intelligence can be applied.
 • Candidates with highly relevant IT degrees, with consistently good academic records and good practical software development knowledge gained either through course work, course projects or professional IT certifications, may be granted a work experience waiver.
 
+---
+
+# ML machine learning
+SL supervised learning
+UL
+RL
+
+# DL
+FNN
+CNN
+RNN
+
+# NLP
+
+# CV
+
+# Speech Recognition &  Synthesis
+STT
+TTS
+
+# KRR Knowledge Representation & Reasoning
+
+# Robotic
+
+# AI Application
+
+---
+
+NUS-ISS-
+
